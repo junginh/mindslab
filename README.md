@@ -10,7 +10,7 @@
 ### merge_image.py
 1. terminal user input 구현
 2. 모든 경우의 수 = (N * M)!
-3. output image 기준을 첫번째 리스트 이미지로 정함
+3. output image 기준을 첫번째 리스트 이미지의 transformation 로 정함
 4. openCV image stiching 고려
 5. edge vector cosine similarity 시도 (inspired by: [this link](https://www.abtosoftware.com/blog/computer-vision-powers-automatic-jigsaw-puzzle-solver) Module VI. Colour Descriptor)
    - 가장 최소 거리더라도 안 맞는 경우가 생김
