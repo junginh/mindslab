@@ -14,7 +14,7 @@
 4. openCV image stiching 고려
 5. edge vector cosine similarity 시도 (inspired by: [this link](https://www.abtosoftware.com/blog/computer-vision-powers-automatic-jigsaw-puzzle-solver) Module VI. Colour Descriptor)
    - 가장 최소 거리더라도 안 맞는 경우가 생김
-6. jigsaw 시도 
+6. jigsaw 시도 [this keras model structure](https://gist.github.com/shivaverma/f8f51b2309fc7c9ad0a404a0ff3a2603)
    - python3 -m pip install tensorflow-macos
    - --> ERROR: Could not build wheels for h5py, which is required to install pyproject.toml-based projects
    - Jigsaw puzzle
