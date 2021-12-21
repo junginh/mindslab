@@ -21,3 +21,7 @@
    - JigsawGAN
    - Facebook VISSL jigsaw
    - https://avkashchauhan.medium.com/solving-block-image-puzzle-with-neural-networks-webapp-solution-5ade03e5bc8
+
+
+### 문제점
+- 쉬운부분을 먼저 구현하느라 뒤에 머징 알고리즘 서칭 및 코딩을 너무 뒤늦게 해버려서 시간이 충분하지 않았다. 알고리즘 검색 먼저 해볼 것
